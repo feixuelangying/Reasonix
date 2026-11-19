@@ -13,7 +13,7 @@ require (
 	github.com/Microsoft/go-winio v0.6.4
 	github.com/alecthomas/chroma/v2 v2.27.0
 	github.com/atotto/clipboard v0.1.4
-	github.com/aymanbagabas/go-udiff v0.4.1
+	github.com/aymanbagabas/go-udiff v0.4.2
 	github.com/bmatcuk/doublestar/v4 v4.10.4
 	github.com/charmbracelet/colorprofile v0.4.3
 	github.com/charmbracelet/ultraviolet v0.0.0-20261008173134-6b8d4baf91b4
@@ -40,7 +40,7 @@ require (
 	github.com/tree-sitter/tree-sitter-python v0.25.0
 	github.com/tree-sitter/tree-sitter-rust v0.24.2
 	github.com/tree-sitter/tree-sitter-typescript v0.23.2
-	github.com/yuin/goldmark v1.8.6
+	github.com/yuin/goldmark v1.8.7
 	github.com/zalando/go-keyring v0.2.8
 	go.etcd.io/bbolt v1.5.0
 	go.uber.org/goleak v1.3.0
